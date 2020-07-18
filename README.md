@@ -1,6 +1,7 @@
 
-Yey, I'm also setting up the new & fancy box that everyone is hyped about!
+Yey, I'm also setting up that new & fancy box that everyone is hyped about!
 😄
+
 
 <!--
 ### Steve Schnepp
