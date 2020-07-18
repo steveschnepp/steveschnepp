@@ -1,9 +1,10 @@
-### Steve Schnepp
 
 Yey, I'm also setting up the new & fancy box that everyone is hyped about!
 😄
 
 <!--
+### Steve Schnepp
+
 **steveschnepp/steveschnepp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
